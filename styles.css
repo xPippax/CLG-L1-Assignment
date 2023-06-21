@@ -1,0 +1,21 @@
+body {
+background-color:rgb(250, 226, 226)
+}
+
+h1 {
+    font-family:monospace;
+    color:deeppink;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h4 {
+    font-family:monospace;
+    font-size:x-large;
+    text-align: center;
+    color:deeppink;
+}
